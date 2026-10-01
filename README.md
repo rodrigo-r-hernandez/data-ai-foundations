@@ -20,3 +20,13 @@ Build a strong technical foundation that can support future roles in:
 - AI Engineering
 - Data Engineering
 - Technology Consulting
+
+## Learning Roadmap
+
+1. Git & GitHub
+2. Python
+3. SQL
+4. APIs
+5. Cloud Fundamentals
+6. Data Engineering
+7. AI Applications
